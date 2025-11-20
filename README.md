@@ -7,5 +7,5 @@ pip install -r requirements.txt
 ## Usage
 
 ```
-python src\main.py dot_system1 'xy' 5
+python src/main.py dot_system1 'xy' 5
 ```
